@@ -1,18 +1,4 @@
 ### Hey folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-
-<p><img align="left" src="./dino.gif" alt="Aporbo" /></p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <a href="https://discord.gg/XyKY7gmN">
   <img align="left" alt="Aporbo's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -28,6 +14,12 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Aporbo.Aporbo)
+
+<br>
+<br>
+
+<p><img align="left" src="./dino.gif" alt="Aporbo" /></p>
+
 
 <br />
 
