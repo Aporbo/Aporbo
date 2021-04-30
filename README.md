@@ -77,25 +77,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aporbo&show_icons=true&locale=en&layout=compact" alt="Aporbo" /></p>
 <br>
 
-📊 **This Week I Spent My Time On:**
-<br>
-JavaScript   9 hrs 1 min     █████████████░░░░░░░░░░░░   52.25 % 
-JSX          5 hrs 4 mins    ███████▒░░░░░░░░░░░░░░░░░   29.36 % 
-SCSS         2 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-```
-<!--END_SECTION:waka-->
-
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  7,837 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 642 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aporbo&show_icons=true&theme=gotham" alt="Aporbo" />
