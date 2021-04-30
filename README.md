@@ -87,7 +87,8 @@ JSON         10 mins         ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-🚧 **My To-do list Stats:**
+
+🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  7,837 Karma Points           
 🌸  Completed 0 tasks today           
