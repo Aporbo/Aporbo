@@ -9,7 +9,7 @@
   <img align="left" alt="Aporbo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://stackoverflow.com/users/15797101/aporbo-ghosh">
-  <img align="left" alt="Aporbo's Spotify" width="100px" src="https://img.icons8.com/windows/32/fa314a/stackoverflow.png" />
+  <img align="left" alt="Aporbo's Spotify" width="22px" src="https://img.icons8.com/windows/32/fa314a/stackoverflow.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Aporbo.Aporbo)
