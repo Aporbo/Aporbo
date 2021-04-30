@@ -1,5 +1,5 @@
 ### Hey folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-  <img align="right" alt="GIF" src="https://giphy.com/gifs/MobTelecom-mob-telecom-mobtelecom-odomdeconectar-KeQgaiv19rCEdVFnW8/tile" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://giphy.com/gifs/MobTelecom-mob-telecom-mobtelecom-odomdeconectar-KeQgaiv19rCEdVFnW8/tile"/>
 <a href="https://discord.gg/XyKY7gmN">
   <img align="left" alt="Aporbo's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
