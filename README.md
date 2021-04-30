@@ -2,7 +2,8 @@
 
 
 <p><img align="left" src="./dino.gif" alt="Aporbo" /></p>
-
+<br>
+<br>
 <a href="https://discord.gg/XyKY7gmN">
   <img align="left" alt="Aporbo's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -89,7 +90,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aporbo&show_icons=true&theme=gotham" alt="Aporbo" />
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Aporbo&show_icons=true&theme=gotham" alt="Aporbo" />
 
 
 
