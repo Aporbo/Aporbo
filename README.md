@@ -4,6 +4,10 @@
 <p><img align="left" src="./dino.gif" alt="Aporbo" /></p>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 <a href="https://discord.gg/XyKY7gmN">
   <img align="left" alt="Aporbo's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
