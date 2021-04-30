@@ -51,8 +51,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br>
 <br>
 <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aporbo&show_icons=true&locale=en&layout=compact" alt="Aporbo" /></p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aAporbo&show_icons=true&locale=en&layout=compact" alt="Aporbo" /></p>
 
 📊 **This Week I Spent My Time On:**
 <br>
