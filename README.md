@@ -58,9 +58,7 @@ JSON         10 mins         ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
@@ -73,7 +71,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aporbo&show_icons=true&theme=gotham" alt="aporbo" />
 
 
 
