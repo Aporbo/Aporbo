@@ -57,6 +57,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
 <img align="left" alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -71,14 +72,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
-<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-
 
 <img align="left" alt="GitHub" width="36px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 
 <img align="left" alt="GitHub" width="36px" src="https://aporbo-portfolio.web.app/static/media/heroku.b38ff61a.svg" />
 
 <img align="left" alt="GitHub" width="36px" src="https://aporbo-portfolio.web.app/static/media/netlify.95e178f5.png" />
+
+<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 
 <img align="left" alt="GitHub" width="36px" src="https://firebase.google.com/images/brand-guidelines/logo-logomark.png" />
 
@@ -101,10 +102,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br>
 <br>
 <br>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aporbo&show_icons=true&locale=en&layout=compact" alt="Aporbo" /></p>
 <br>
 
-📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aporbo&show_icons=true&theme=gotham" alt="Aporbo" />
 
