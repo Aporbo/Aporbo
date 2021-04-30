@@ -1,4 +1,5 @@
 ### Hey folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  <img align="right" alt="GIF" src="https://giphy.com/gifs/MobTelecom-mob-telecom-mobtelecom-odomdeconectar-KeQgaiv19rCEdVFnW8/tile" width="500" height="320" />
 <a href="https://discord.gg/XyKY7gmN">
   <img align="left" alt="Aporbo's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -56,9 +57,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 📊 **This Week I Spent My Time On:**
 <br>
-<!--START_SECTION:waka-->
-```text
-<br>
 JavaScript   9 hrs 1 min     █████████████░░░░░░░░░░░░   52.25 % 
 JSX          5 hrs 4 mins    ███████▒░░░░░░░░░░░░░░░░░   29.36 % 
 SCSS         2 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
@@ -67,7 +65,7 @@ JSON         10 mins         ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-🚧 **My Todoist Stats:**
+🚧 **My To-do list Stats:**
 <!-- TODO-IST:START -->
 🏆  7,837 Karma Points           
 🌸  Completed 0 tasks today           
@@ -76,7 +74,7 @@ JSON         10 mins         ▒░░░░░░░░░░░░░░░░
 <!-- TODO-IST:END -->
 
 
-📈 My GitHub Stats
+📈 **My GitHub Stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aporbo&show_icons=true&theme=gotham" alt="aporbo" />
 
