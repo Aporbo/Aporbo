@@ -51,49 +51,49 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://aporbo-portfolio.web.app/static/media/github.0ff1a6f0.svg" />
+<img align="left" alt="MongoDB" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="36px" src="https://aporbo-portfolio.web.app/static/media/github.0ff1a6f0.svg" />
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
-<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
+<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://aporbo-portfolio.web.app/static/media/heroku.b38ff61a.svg" />
+<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://aporbo-portfolio.web.app/static/media/netlify.95e178f5.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://firebase.google.com/images/brand-guidelines/logo-logomark.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://aporbo-portfolio.web.app/static/media/git-icon.1190a19c.svg" />
-
-<img align="left" alt="GitHub" width="26px" src="https://aporbo-portfolio.web.app/static/media/typescript.3de182d2.svg" />
-
-<img align="left" alt="GitHub" width="26px" src="https://aporbo-portfolio.web.app/static/media/express.c6bab64b.svg" />
-
-<img align="left" alt="GitHub" width="26px" src="https://aporbo-portfolio.web.app/static/media/material-ui-1.82291019.svg" />
+<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 
 
-<img align="left" alt="GitHub" width="26px" src="https://aporbo-portfolio.web.app/static/media/redux.aa0a3376.svg"/>
+<img align="left" alt="GitHub" width="36px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://aporbo-portfolio.web.app/static/media/react-router.02419671.svg" />
+<img align="left" alt="GitHub" width="36px" src="https://aporbo-portfolio.web.app/static/media/heroku.b38ff61a.svg" />
+
+<img align="left" alt="GitHub" width="36px" src="https://aporbo-portfolio.web.app/static/media/netlify.95e178f5.png" />
+
+<img align="left" alt="GitHub" width="36px" src="https://firebase.google.com/images/brand-guidelines/logo-logomark.png" />
+
+<img align="left" alt="GitHub" width="36px" src="https://aporbo-portfolio.web.app/static/media/git-icon.1190a19c.svg" />
+
+<img align="left" alt="GitHub" width="36px" src="https://aporbo-portfolio.web.app/static/media/typescript.3de182d2.svg" />
+
+<img align="left" alt="GitHub" width="36px" src="https://aporbo-portfolio.web.app/static/media/express.c6bab64b.svg" />
+
+<img align="left" alt="GitHub" width="36px" src="https://aporbo-portfolio.web.app/static/media/material-ui-1.82291019.svg" />
+
+
+<img align="left" alt="GitHub" width="36px" src="https://aporbo-portfolio.web.app/static/media/redux.aa0a3376.svg"/>
+
+<img align="left" alt="GitHub" width="36px" src="https://aporbo-portfolio.web.app/static/media/react-router.02419671.svg" />
 
 <!--  -->
 
