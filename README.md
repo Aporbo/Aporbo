@@ -82,12 +82,21 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--  -->
 <br>
 <br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
 <br>
 <p class="test" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aporbo&show_icons=true&locale=en&layout=compact" alt="Aporbo" /></p>
 <br>
 <br>
-<br>
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Aporbo&show_icons=true&theme=gotham" alt="Aporbo" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aporbo&show_icons=true&theme=gotham" alt="Aporbo" />
 
 
 
