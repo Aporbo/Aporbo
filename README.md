@@ -96,7 +96,7 @@ JSON         10 mins         ▒░░░░░░░░░░░░░░░░
 <!-- TODO-IST:END -->
 
 
-📈 **My GitHub Stats**
+📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aporbo&show_icons=true&theme=gotham" alt="aporbo" />
 
