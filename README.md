@@ -9,7 +9,7 @@
   <img align="left" alt="Aporbo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://stackoverflow.com/users/15797101/aporbo-ghosh">
-  <img align="left" alt="Aporbo's Spotify" width="22px" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" />
+  <img align="left" alt="Aporbo's Spotify" width="100px" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Aporbo.Aporbo)
@@ -24,7 +24,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://www.linkedin.com/in/aporbo-ghosh-7753541a6/);
+- 📫 How to reach me: [@Aporbo](https://www.linkedin.com/in/aporbo-ghosh-7753541a6/);
 - 📝 [Resume](https://drive.google.com/file/d/1vrbGa4NvjLSUfCopMAVt7CKOXoAffzvj/view?usp=sharing)
 
 
