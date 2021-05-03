@@ -70,7 +70,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img align="left" alt="GitHub" width="36px" src="https://aporbo-portfolio.web.app/static/media/typescript.3de182d2.svg" />
 
 
-<img align="left" alt="GitHub" width="36px" src="https://aporbo-portfolio.web.app/static/media/material-ui-1.82291019.svg" />
+<img align="left" alt="GitHub" width="36px" src="https://material-ui.com/static/logo.png" />
 
 
 <img align="left" alt="GitHub" width="36px" src="https://aporbo-portfolio.web.app/static/media/redux.aa0a3376.svg"/>
