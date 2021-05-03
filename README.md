@@ -45,7 +45,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <img align="left" alt="MongoDB" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="36px" src="https://aporbo-portfolio.web.app/static/media/github.0ff1a6f0.svg" />
+<img align="left" alt="Git" width="36px" src="./intelij.png" />
 
 <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
