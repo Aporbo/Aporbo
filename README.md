@@ -59,23 +59,23 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <img align="left" alt="GitHub" width="36px" src="https://aporbo-portfolio.web.app/static/media/heroku.b38ff61a.svg" />
 
-<img align="left" alt="GitHub" width="36px" src="https://aporbo-portfolio.web.app/static/media/netlify.95e178f5.png" />
+<img align="left" alt="GitHub" width="36px" src="" />
 
 <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 
 <img align="left" alt="GitHub" width="36px" src="https://firebase.google.com/images/brand-guidelines/logo-logomark.png" />
 
-<img align="left" alt="GitHub" width="36px" src="https://aporbo-portfolio.web.app/static/media/git-icon.1190a19c.svg" />
+<img align="left" alt="GitHub" width="36px" src="./git.png" />
 
-<img align="left" alt="GitHub" width="36px" src="https://aporbo-portfolio.web.app/static/media/typescript.3de182d2.svg" />
+<img align="left" alt="GitHub" width="36px" src="./typescript_original_logo_icon_146317.png" />
 
 
 <img align="left" alt="GitHub" width="36px" src="https://material-ui.com/static/logo.png" />
 
 
-<img align="left" alt="GitHub" width="36px" src="https://aporbo-portfolio.web.app/static/media/redux.aa0a3376.svg"/>
+<img align="left" alt="GitHub" width="36px" src="./redux_original_logo_icon_146365.png"/>
 
-<img align="left" alt="GitHub" width="36px" src="https://aporbo-portfolio.web.app/static/media/react-router.02419671.svg" />
+<img align="left" alt="GitHub" width="36px" src="./react-router.png" />
 
 <!--  -->
 <br>
