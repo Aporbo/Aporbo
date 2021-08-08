@@ -28,7 +28,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Aporbo](https://www.linkedin.com/in/aporbo-ghosh-7753541a6/);
-- 📝 [Resume](https://drive.google.com/file/d/1vrbGa4NvjLSUfCopMAVt7CKOXoAffzvj/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1eVsLOpEjsX-vgElEwQKcjz-ZWn1NFtFb/view)
 
 
 ### Languages and Tools:
