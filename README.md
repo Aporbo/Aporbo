@@ -1,5 +1,5 @@
 ### Hey folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<br>
+<!-- <br>
 <a href="https://discord.gg/XyKY7gmN">
   <img align="left" alt="Aporbo's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -77,7 +77,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <img align="left" alt="GitHub" width="36px" src="./react-router.png" />
 
-<!--  -->
+
 <br>
 <br>
 <br>
@@ -92,7 +92,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br>
 <br>
 <br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aporbo&show_icons=true&theme=gotham" alt="Aporbo" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aporbo&show_icons=true&theme=gotham" alt="Aporbo" /> -->
 
 
 
