@@ -17,7 +17,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aporbo&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 A Random Meme For you
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
