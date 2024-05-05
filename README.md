@@ -14,7 +14,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aporbo&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-# Resume :
-![]([https://github-contributor-stats.vercel.app/api?username=Aporbo&limit=5&theme=tokyonight&combine_all_yearly_contributions=true](https://github.com/Aporbo/Aporbo/blob/master/Aporba%20Ghosh%20Resume.pdf=true))
 
 ---
